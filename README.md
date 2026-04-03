@@ -5,7 +5,7 @@ Note: The notebook is pre-executed for easy viewing on GitHub.
 Developed a machine learning pipeline to classify chest X-ray images and built a SQL-based analytics system to monitor model performance.
 
 ## Results
-- Achieved **~80–82% test accuracy**
+- Achieved **~82% test accuracy**
 - Trained on 2,400+ medical images
 - Built SQL queries to analyze prediction accuracy and error patterns
 
